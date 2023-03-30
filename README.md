@@ -4,4 +4,4 @@ This repository is the collection of various types of cool programs written in t
 The list below contains links to the specific programs.
 ## List of Programs
 - [Simple Programs](./simpleprograms/)
- - [Factorial of a number](./simpleprograms/factorial.swift)
+  - [Factorial of a number](./simpleprograms/factorial.swift)
