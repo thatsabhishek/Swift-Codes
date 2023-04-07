@@ -5,3 +5,4 @@ The list below contains links to the specific programs.
 ## List of Programs
 - [Simple Programs](./simpleprograms/)
   - [Factorial of a number](./simpleprograms/factorial.swift)
+  - [Leap year or not](./simpleprograms/leapyear.swift)
