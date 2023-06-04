@@ -7,3 +7,5 @@ The list below contains links to the specific programs.
   - [GCD of 2 number](./simpleprograms/gcd.swift)
   - [Factorial of a number](./simpleprograms/factorial.swift)
   - [Leap year or not](./simpleprograms/leapyear.swift)
+  - [Multiplication of first n numbers](./simpleprograms/multiplicationoffirstnnumbers.swift)
+  - [Sum of first n numbers](./simpleprograms/sumoffirstnnumbers.swift)
